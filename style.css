@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    background-image: url(/assets/bg.png);
+    background-size: 100% auto;
+}
+
+main {
+    padding-top: 200px;
+}
+
+section {
+    padding: 70px;
+}
+
+div img {
+    border-radius: 50%;
+
+    margin: auto;
+    display: flex;
+}
+
+h1 {
+    font-size: 40px;
+    color: #343434;
+
+    margin-top: 40px;
+    text-align: center;
+}
+
+p {
+    margin-top: 10px;
+    padding-left: 400px;
+    padding-right: 400px;
+
+    font-size: 26px;
+    text-align: center;
+
+    color: #343434;
+}
